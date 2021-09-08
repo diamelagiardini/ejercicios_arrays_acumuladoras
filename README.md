@@ -1,4 +1,4 @@
-# ejercicios-acumuladoras
+# Ejercicios Acumuladoras
 
 1) ```const numeros = [5, 7, 8, 4]```  
 
